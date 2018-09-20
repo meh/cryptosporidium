@@ -1,0 +1,7 @@
+[package]
+name = "cryptosporidium-core"
+version = "0.1.0"
+authors = ["meh. <meh@schizofreni.co>"]
+edition = "2018"
+
+[dependencies]
